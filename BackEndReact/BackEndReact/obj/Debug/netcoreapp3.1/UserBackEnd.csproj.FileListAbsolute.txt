@@ -1,0 +1,6 @@
+D:\Fontys\Semester 3\individueel project\BackEndReact\BackEndReact\obj\Debug\netcoreapp3.1\UserBackEnd.csproj.AssemblyReference.cache
+D:\Fontys\Semester 3\individueel project\BackEndReact\BackEndReact\obj\Debug\netcoreapp3.1\UserBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Semester 3\individueel project\BackEndReact\BackEndReact\obj\Debug\netcoreapp3.1\UserBackEnd.AssemblyInfoInputs.cache
+D:\Fontys\Semester 3\individueel project\BackEndReact\BackEndReact\obj\Debug\netcoreapp3.1\UserBackEnd.AssemblyInfo.cs
+D:\Fontys\Semester 3\individueel project\BackEndReact\BackEndReact\obj\Debug\netcoreapp3.1\UserBackEnd.csproj.CoreCompileInputs.cache
+D:\Fontys\Semester 3\individueel project\BackEndReact\BackEndReact\obj\Debug\netcoreapp3.1\UserBackEnd.MvcApplicationPartsAssemblyInfo.cache
