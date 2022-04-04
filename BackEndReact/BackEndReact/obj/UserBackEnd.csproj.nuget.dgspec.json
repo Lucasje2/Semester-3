@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fontys\\Semester 3\\individueel project\\BackEndReact\\BackEndReact\\UserBackEnd.csproj": {}
+    "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\BackEndReact\\UserBackEnd.csproj": {}
   },
   "projects": {
-    "D:\\Fontys\\Semester 3\\individueel project\\BackEndReact\\BackEndReact\\UserBackEnd.csproj": {
+    "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\BackEndReact\\UserBackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fontys\\Semester 3\\individueel project\\BackEndReact\\BackEndReact\\UserBackEnd.csproj",
+        "projectUniqueName": "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\BackEndReact\\UserBackEnd.csproj",
         "projectName": "UserBackEnd",
-        "projectPath": "D:\\Fontys\\Semester 3\\individueel project\\BackEndReact\\BackEndReact\\UserBackEnd.csproj",
+        "projectPath": "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\BackEndReact\\UserBackEnd.csproj",
         "packagesPath": "C:\\Users\\luvas\\.nuget\\packages\\",
-        "outputPath": "D:\\Fontys\\Semester 3\\individueel project\\BackEndReact\\BackEndReact\\obj\\",
+        "outputPath": "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\BackEndReact\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luvas\\AppData\\Roaming\\NuGet\\NuGet.Config",
