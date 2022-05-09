@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\BackEndReact\\UserBackEnd.csproj": {}
+    "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\FlightInformation\\FlightInformation.csproj": {}
   },
   "projects": {
-    "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\BackEndReact\\UserBackEnd.csproj": {
+    "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\FlightInformation\\FlightInformation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\BackEndReact\\UserBackEnd.csproj",
-        "projectName": "UserBackEnd",
-        "projectPath": "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\BackEndReact\\UserBackEnd.csproj",
+        "projectUniqueName": "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\FlightInformation\\FlightInformation.csproj",
+        "projectName": "FlightInformation",
+        "projectPath": "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\FlightInformation\\FlightInformation.csproj",
         "packagesPath": "C:\\Users\\luvas\\.nuget\\packages\\",
-        "outputPath": "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\BackEndReact\\obj\\",
+        "outputPath": "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\FlightInformation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luvas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,21 +40,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "AutoMapper": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
-              "version": "[11.0.1, )"
-            },
-            "Microsoft.AspNetCore.Mvc.Cors": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[1.11.1, )"
             }
           },
           "imports": [

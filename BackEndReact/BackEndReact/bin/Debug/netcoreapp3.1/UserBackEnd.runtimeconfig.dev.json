@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\luvas\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\luvas\\.nuget\\packages"
-    ]
-  }
-}
