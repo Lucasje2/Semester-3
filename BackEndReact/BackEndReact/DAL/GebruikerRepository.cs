@@ -1,16 +1,36 @@
-﻿using System;
+﻿using UserBackEnd.DAL;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using BackEndReact.Interface;
+using UserBackEnd.DBModels;
+using UserBackEnd.Interface;
 
 namespace UserBackEnd.DAL
 {
     public class GebruikerRepository : IGebruiker
     {
-        public int Registreren(GebruikerDTO gebruikerDTO)
+        private readonly GebruikerContext _context;
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="gebruiker">Bevat de ID om hele gebruiker op te halen uit de database</param>
+        /// <returns></returns>
+        public Gebruiker GetGebruikerByID(Gebruiker gebruiker)
         {
-            throw new NotImplementedException();
+            return _context.gebruiker.SingleOrDefault(q => q.GebruikerID == gebruiker.GebruikerID);
+        }
+
+        /// <summary>
+        /// Registreer nieuwe gebruiker
+        /// </summary>
+        /// <param name="gebruiker">Alle gegevens van de klant</param>
+        /// <returns></returns>
+        public Gebruiker Registreren(Gebruiker gebruiker)
+        {
+            _context.gebruiker.AddRange(gebruiker);
+            _context.SaveChanges();
+            return gebruiker;
         }
     }
 }
