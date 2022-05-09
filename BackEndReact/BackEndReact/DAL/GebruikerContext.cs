@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using BackEndReact.Interface;
 using Microsoft.EntityFrameworkCore;
+using UserBackEnd.DBModels;
 
-namespace BackEndReact.DAL
+namespace UserBackEnd.DAL
 {
     public class GebruikerContext : DbContext
     {
@@ -14,13 +14,13 @@ namespace BackEndReact.DAL
 
         }
 
-        public virtual DbSet<GebruikerDTO> GebruikerDTO { get; set; }
+        public virtual DbSet<Gebruiker> gebruiker { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelbuilder)
         {
             base.OnModelCreating(modelbuilder);
 
-            modelbuilder.Entity<GebruikerDTO>().Property(GebruikerDTO => GebruikerDTO.ID).HasDefaultValueSql("NEWID()");
+            modelbuilder.Entity<Gebruiker>().Property(gebruiker => gebruiker.GebruikerID).HasDefaultValueSql("NEWID()");
         }
     }
 }

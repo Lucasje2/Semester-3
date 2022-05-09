@@ -1,6 +1,6 @@
 using System;
 
-namespace BackEndReact
+namespace FlightInformation
 {
     public class WeatherForecast
     {

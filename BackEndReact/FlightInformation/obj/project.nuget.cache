@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7be25aa1uhVD4crhyWhuHkKfsaqELFQgD/tahIoIwlR3QPmMx6SETjPPbKve6Ra+jyX/dVskfbmG81uYIMo66A==",
+  "success": true,
+  "projectFilePath": "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\FlightInformation\\FlightInformation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luvas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
