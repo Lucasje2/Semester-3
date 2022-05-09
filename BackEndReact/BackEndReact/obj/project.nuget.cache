@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QVDaEmpcqi64az2ICylMjMOYB4EI03xkPW8hhOvq0ZrWuPKw1CmQmDFt3umZ16IuvrYO2x7IYtxTsdV9uMKKUw==",
+  "dgSpecHash": "EAjmTSm9qnIoS6MQc9WFR5KDj894bWTgQ/gDfpmhtVKqEjcCbRdf+8kPuEz7rPrI3cHlVXUR0GOhSE1HFryauQ==",
   "success": true,
-  "projectFilePath": "D:\\Fontys\\Semester 3\\individueel project\\BackEndReact\\BackEndReact\\UserBackEnd.csproj",
+  "projectFilePath": "D:\\Fontys\\Semester 3\\individueel project\\Semester-3\\BackEndReact\\BackEndReact\\UserBackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luvas\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\luvas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
