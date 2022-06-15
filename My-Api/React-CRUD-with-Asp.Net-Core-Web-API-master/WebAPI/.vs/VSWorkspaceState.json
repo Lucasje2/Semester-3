@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAPI",
+    "\\WebAPI\\Controllers",
+    "\\WebAPI\\DAL",
+    "\\WebAPI\\DBModels",
+    "\\WebAPI\\Interface",
+    "\\WebAPI\\Models",
+    "\\WebAPI\\Profiles",
+    "\\WebAPI\\Properties",
+    "\\WebAPI\\ViewModels"
+  ],
+  "PreviewInSolutionExplorer": false
+}
